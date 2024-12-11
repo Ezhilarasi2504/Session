@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-ES" original="TranslationApp">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3429405268 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Page</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translation Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3429405268 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translation Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3429405268 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Address field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translation Page - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3429405268 - Control 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translation Page - Control Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3429405268 - Control 3558390861 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Age field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translation Page - Control Age - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3429405268 - Control 3558390861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Age</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translation Page - Control Age - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3429405268 - Control 329134311 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Entry No field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translation Page - Control Entry No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3429405268 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Name field.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2">%</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translation Page - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3429405268 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Translation Page - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2969111775 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation Table</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translation Table - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2969111775 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translation Table - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2969111775 - Field 3558390861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Age</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translation Table - Field Age - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2969111775 - Field 329134311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translation Table - Field Entry No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2969111775 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Translation Table - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1628665811 - NamedType 989751795" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PurchaseLine_%1_%2</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ExcelReport - NamedType FileName</note>
+        </trans-unit>
+        <trans-unit id="Report 1628665811 - NamedType 3623651812" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Line</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ExcelReport - NamedType PurchLineLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1628665811 - Control 863000131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MailBody</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ExcelReport - Control MailBody - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1628665811 - Control 2322765030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email Setting</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ExcelReport - Control EmailSetting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1628665811 - Control 976491012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CCRecipients</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ExcelReport - Control CCRecipients - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1628665811 - Control 323864795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email ID</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ExcelReport - Control EmailID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1628665811 - Control 1128486055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MailSubject</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ExcelReport - Control MailSubject - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

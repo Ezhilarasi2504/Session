@@ -1,0 +1,2 @@
+GET https://api.postalpincode.in/pincode/600083 HTTP/1.1
+content-type: application/json
